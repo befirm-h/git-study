@@ -1,1 +1,2 @@
-�ʹ� �ű��� ��? really really ���� �����ϳ�!
+너무 신기한 걸? really really 정말 편리하네!
+서버에서 수정하면 충돌을 막기 위해 무조건 pull 해야 한답니다.
