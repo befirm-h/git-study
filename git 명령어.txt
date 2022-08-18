@@ -17,3 +17,4 @@
  * git log(or shortlog): commit log 확인
  * git 명령어 -help: 도움말
  * .gitignore 파일은 add 무시할 파일 작성 
+ * git config --global core.quotepath false : 한글 인코딩 오류 
