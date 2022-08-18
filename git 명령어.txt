@@ -1,0 +1,19 @@
+
+처음 시작할 때, 관리를 위한 폴더에서 우측 클릭 > git bash 아이콘 클릭
+ 1) git init: 처음 초기화 작업 (하위 디렉토리 생성)
+ 2) git config --global user.name "사용자 이름" / git confg --global user.email "사용자 이메일" : 사용자 이름/이메일 설정
+ 3) git add 파일명: 파일 올리기 or 수정본 올리기
+    (or) git add .: 파일 전체 올리기
+ 4) git commit > i > commit message 적은 후에 > esc + :wq : 커밋
+    (or) git commit -m "commit message..."
+    (or) git commit -am "commit message..."   - add+commit
+ 5) git remote 이름 url: github 연결
+ 6) git push 이름 상대이름(master): 원격 저장소에 업로드
+ 7) 
+ 
+ 
+ 
+ * git status: 상태 확인
+ * git log(or shortlog): commit log 확인
+ * git 명령어 -help: 도움말
+ * .gitignore 파일은 add 무시할 파일 작성 
